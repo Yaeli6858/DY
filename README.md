@@ -9,7 +9,6 @@
 
 Daat Yehudit is a comprehensive full-stack web application designed for managing financial and administrative operations of a religious organization. The system handles donor management, avrechim (scholars) tracking, debt management, expenses, and various financial summaries. It provides a user-friendly interface for administrators to oversee donations, yahrzeits, milgot (scholarships), and organizational links.
 
-
 ## Table of Contents
 
 - [Features](#features)
@@ -25,8 +24,6 @@ Daat Yehudit is a comprehensive full-stack web application designed for managing
 - [UI Screenshots](#ui-screenshots)
 
 ---
-
-
 
 ## Features
 
@@ -107,7 +104,7 @@ The application uses MongoDB as the primary database with the following main col
 ## Authentication & Authorization
 
 - **Registration**: User registration with username, password, name, email, and phone
-- **Login**: JWT-based authentication (implementation in progress)
+- **Login**: JWT-based authentication
 - **Password Security**: bcrypt hashing for secure password storage
 - **Session Management**: JWT tokens for maintaining user sessions
 
@@ -124,7 +121,7 @@ Before running this application, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yaeli6858/Daat-Yehudit-Management
+   git clone https://github.com/Devora9249/Daat-Yehudit-Management
    cd Daat-Yehudit-Management
    ```
 
