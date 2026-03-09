@@ -28,8 +28,9 @@ A comprehensive full-stack web application for managing the financial and admini
 
 Daat Yehudit is a comprehensive full-stack web application designed for managing financial and administrative operations of a religious organization. The system handles donor management, avrechim (scholars) tracking, debt management, expenses, and various financial summaries. It provides a user-friendly interface for administrators to oversee donations, yahrzeits, milgot (scholarships), and organizational links. The application is fully in Hebrew with RTL support.
 
-## Features
+---
 
+## Features
 - **Donor Management**: Add, edit, and track donors with donation history, yahrzeit information, and contact details
 - **Avrechim Tracking**: Manage scholars with personal details, activity status, and associated milgot
 - **Debt Management**: Track given and taken debts with payment status
@@ -41,6 +42,8 @@ Daat Yehudit is a comprehensive full-stack web application designed for managing
 - **Data Export**: Export donor and avrechim details to Excel format
 - **Responsive UI**: Modern Material-UI based interface
 
+---
+
 ## Architecture
 
 The application follows a modular full-stack architecture:
@@ -51,6 +54,9 @@ The application follows a modular full-stack architecture:
 - **Authentication**: JWT-based authentication system
 - **Background Jobs**: Cron jobs for automated tasks (donations, emails)
 - **Email Service**: Nodemailer integration for notifications
+
+---
+
 
 ## Tech Stack
 
@@ -77,6 +83,9 @@ The application follows a modular full-stack architecture:
 - Create React App
 - ESLint
 
+---
+
+
 ## API Overview
 
 The REST API provides endpoints for all major entities:
@@ -92,6 +101,8 @@ The REST API provides endpoints for all major entities:
 
 All endpoints return JSON responses with appropriate HTTP status codes.
 
+---
+
 ## Database
 
 The application uses MongoDB as the primary database with the following main collections:
@@ -104,12 +115,16 @@ The application uses MongoDB as the primary database with the following main col
 - **Links**: Organizational links and resources
 - **Users**: User accounts for authentication
 
+---
+
 ## Authentication & Authorization
 
 - **Registration**: User registration with username, password, name, email, and phone
 - **Login**: JWT-based authentication
 - **Password Security**: bcrypt hashing for secure password storage
 - **Session Management**: JWT tokens for maintaining user sessions
+
+---
 
 ## Prerequisites
 
@@ -119,6 +134,8 @@ Before running this application, ensure you have the following installed:
 - npm or yarn package manager
 - MongoDB database (local or cloud instance)
 - Git for version control
+
+---
 
 ## Getting Started
 
@@ -172,6 +189,8 @@ Before running this application, ensure you have the following installed:
    Open your browser and navigate to `http://localhost:3000`
    > The backend server runs on `http://localhost:1111`
 
+---
+
 ## Project Structure
 
 ```
@@ -207,6 +226,8 @@ DaatYehudit/
 └── README.md                        # This file
 ```
 
+---
+
 ## UI Design
 
 The entire application theme is defined in a single file: `client/src/MainDesign/theme.js`, using Material-UI's `createTheme`. This centralized approach makes it easy to update the look and feel of the whole app from one place.
@@ -223,6 +244,8 @@ The entire application theme is defined in a single file: `client/src/MainDesign
 - TextFields support a `descriptionField` variant with a scrollable, resizable textarea
 
 **RTL-ready:** The font choice (Rubik) and centered layout patterns are well-suited for Hebrew right-to-left content across all pages.
+
+---
 
 ## UI Screenshots
 
