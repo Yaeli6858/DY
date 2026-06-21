@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "69aec5aefad5ee38bbafe401"
+  },
+  "date": {
+    "$date": "2024-01-01T08:00:00.000Z"
+  },
+  "amount": 4500,
+  "description": "שכירות מבנה - חודש ינואר"
+},
+{
+  "_id": {
+    "$oid": "69aec5aefad5ee38bbafe402"
+  },
+  "date": {
+    "$date": "2024-01-05T10:30:00.000Z"
+  },
+  "amount": 1200.5,
+  "description": "חשבון חשמל (דו-חודשי)"
+},
+{
+  "_id": {
+    "$oid": "69aec5aefad5ee38bbafe403"
+  },
+  "date": {
+    "$date": "2024-01-12T09:00:00.000Z"
+  },
+  "amount": 350,
+  "description": "כיבוד קל ושתייה חמה למערכת"
+},
+{
+  "_id": {
+    "$oid": "69aec5aefad5ee38bbafe404"
+  },
+  "date": {
+    "$date": "2024-01-20T14:00:00.000Z"
+  },
+  "amount": 800,
+  "description": "ניקיון ואחזקה שוטפת"
+}]

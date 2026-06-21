@@ -1,0 +1,2726 @@
+[{
+  "_id": {
+    "$oid": "69aec8b6fad5ee38bbafe412"
+  },
+  "name": "דבורה שרון",
+  "donorId": "DR-1001",
+  "address": "רחוב הפסגה 12, ירושלים",
+  "phoneNumber": "052-1112233",
+  "emailAddress": "shimon.g@example.com",
+  "yahrzeitDate": [
+    {
+      "date": {
+        "$date": "2024-05-15T00:00:00.000Z"
+      },
+      "name": "מרדכי בן אברהם ז\"ל",
+      "_id": {
+        "$oid": "69aed38f69793899c9b183bf"
+      }
+    }
+  ],
+  "donations": [
+    {
+      "date": {
+        "$date": "2023-11-01T09:00:00.000Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "monthly",
+      "startDate": {
+        "$date": "2023-11-01T00:00:00.000Z"
+      },
+      "endDate": null,
+      "isActive": true,
+      "stoppedAt": null,
+      "nextDonationDate": {
+        "$date": "2026-04-01T00:00:00.000Z"
+      },
+      "_id": {
+        "$oid": "69aed38f69793899c9b183c0"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T14:05:24.810Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-01-10T14:20:00.000Z"
+      },
+      "amount": 2500,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aed38f69793899c9b183c1"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T14:05:24.810Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T14:05:24.810Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-02-15T11:00:00.000Z"
+      },
+      "amount": 1000,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aed38f69793899c9b183c2"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T14:05:24.810Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T14:05:24.810Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18509"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1850a"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1850b"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1850c"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1850d"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1850e"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1850f"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18510"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18511"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18512"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18513"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18514"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18515"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18516"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18517"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18518"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18519"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1851a"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1851b"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.034Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1851c"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.035Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.035Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1851d"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.035Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.035Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1851e"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.035Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.035Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1851f"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.035Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.035Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.024Z"
+      },
+      "amount": 500,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18520"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.035Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.035Z"
+      }
+    }
+  ],
+  "updatedAt": {
+    "$date": "2026-03-09T15:25:00.035Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "69aec8b6fad5ee38bbafe413"
+  },
+  "name": "משפחת אדלר",
+  "donorId": "DR-1002",
+  "address": "רחוב חזון איש 40, בני ברק",
+  "phoneNumber": "03-6184455",
+  "emailAddress": "adler.family@charity.org",
+  "donations": [
+    {
+      "endDate": null,
+      "stoppedAt": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b184fc"
+      },
+      "date": {
+        "$date": "2023-10-01T10:00:00.000Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "monthly",
+      "startDate": {
+        "$date": "2023-10-01T00:00:00.000Z"
+      },
+      "isActive": true,
+      "nextDonationDate": {
+        "$date": "2026-04-01T00:00:00.000Z"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "startDate": null,
+      "endDate": null,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b184fd"
+      },
+      "date": {
+        "$date": "2023-12-25T08:00:00.000Z"
+      },
+      "amount": 1800,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "isActive": false,
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "startDate": null,
+      "endDate": null,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b184fe"
+      },
+      "date": {
+        "$date": "2024-03-05T17:30:00.000Z"
+      },
+      "amount": 500,
+      "paymentMethod": "מזומן",
+      "frequency": "once",
+      "isActive": false,
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18522"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18523"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18524"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18525"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18526"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18527"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18528"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18529"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1852a"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1852b"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1852c"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1852d"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1852e"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1852f"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18530"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18531"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18532"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18533"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18534"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18535"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18536"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18537"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18538"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.042Z"
+      },
+      "amount": 200,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18539"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.047Z"
+      }
+    }
+  ],
+  "__v": 1,
+  "updatedAt": {
+    "$date": "2026-03-09T15:25:00.047Z"
+  },
+  "yahrzeitDate": []
+},
+{
+  "_id": {
+    "$oid": "69aec8b6fad5ee38bbafe414"
+  },
+  "name": "יעקב רוטנשטיין",
+  "donorId": "12345845",
+  "address": "רחוב הארזים 5, רעננה",
+  "phoneNumber": "09-7778899",
+  "donations": [
+    {
+      "date": {
+        "$date": "2024-01-01T12:00:00.000Z"
+      },
+      "amount": 10000,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee48669793899c9b184e8"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:34:10.657Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:34:10.657Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2024-02-01T12:00:00.000Z"
+      },
+      "amount": 1200,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "monthly",
+      "startDate": {
+        "$date": "2024-02-01T00:00:00.000Z"
+      },
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": {
+        "$date": "2024-03-15T10:00:00.000Z"
+      },
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee48669793899c9b184e9"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:34:10.657Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:34:10.657Z"
+      }
+    }
+  ],
+  "updatedAt": {
+    "$date": "2026-03-09T15:34:10.657Z"
+  },
+  "yahrzeitDate": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "-127958400000"
+        }
+      },
+      "name": "משה בן אברהם",
+      "_id": {
+        "$oid": "69aee87269793899c9b189b2"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aec8b6fad5ee38bbafe415"
+  },
+  "name": "יונתן כץ",
+  "donorId": "DR-1004",
+  "address": "רחוב שטראוס 2, ירושלים",
+  "phoneNumber": "054-3334422",
+  "donations": [
+    {
+      "endDate": null,
+      "stoppedAt": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b184ff"
+      },
+      "date": {
+        "$date": "2023-08-15T09:00:00.000Z"
+      },
+      "amount": 360,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "monthly",
+      "startDate": {
+        "$date": "2023-08-15T00:00:00.000Z"
+      },
+      "isActive": true,
+      "nextDonationDate": {
+        "$date": "2026-03-15T01:00:00.000Z"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.055Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.055Z"
+      }
+    },
+    {
+      "startDate": null,
+      "endDate": null,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18500"
+      },
+      "date": {
+        "$date": "2024-01-20T10:00:00.000Z"
+      },
+      "amount": 770,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "isActive": false,
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.056Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.056Z"
+      }
+    },
+    {
+      "startDate": null,
+      "endDate": null,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18501"
+      },
+      "date": {
+        "$date": "2024-02-28T14:00:00.000Z"
+      },
+      "amount": 500,
+      "paymentMethod": "מזומן",
+      "frequency": "once",
+      "isActive": false,
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.056Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.056Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.050Z"
+      },
+      "amount": 360,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18548"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.056Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.056Z"
+      }
+    }
+  ],
+  "__v": 23,
+  "updatedAt": {
+    "$date": "2026-03-09T15:33:06.156Z"
+  },
+  "yahrzeitDate": []
+},
+{
+  "_id": {
+    "$oid": "69aec8b6fad5ee38bbafe416"
+  },
+  "name": "אהרון קליין",
+  "donorId": "DR-1005",
+  "address": "רחוב רבי עקיבא 10, אלעד",
+  "donations": [
+    {
+      "date": {
+        "$date": "2024-03-10T08:00:00.000Z"
+      },
+      "amount": 450,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "isActive": false
+    },
+    {
+      "date": {
+        "$date": "2024-01-05T19:00:00.000Z"
+      },
+      "amount": 120,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "isActive": false
+    },
+    {
+      "date": {
+        "$date": "2023-11-20T10:30:00.000Z"
+      },
+      "amount": 1000,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "isActive": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aec8b6fad5ee38bbafe417"
+  },
+  "name": "ליאת שלום",
+  "donorId": "DR-1006",
+  "address": "רחוב נועם אלימלך 3, ירושלים",
+  "donations": [
+    {
+      "endDate": null,
+      "stoppedAt": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18502"
+      },
+      "date": {
+        "$date": "2023-12-01T09:00:00.000Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "monthly",
+      "startDate": {
+        "$date": "2023-12-01T00:00:00.000Z"
+      },
+      "isActive": true,
+      "nextDonationDate": {
+        "$date": "2026-04-01T00:00:00.000Z"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      }
+    },
+    {
+      "startDate": null,
+      "endDate": null,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18503"
+      },
+      "date": {
+        "$date": "2024-02-14T11:00:00.000Z"
+      },
+      "amount": 3600,
+      "paymentMethod": "נדרים פלוס",
+      "frequency": "once",
+      "isActive": false,
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18553"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18554"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18555"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18556"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18557"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18558"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18559"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1855a"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1855b"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1855c"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1855d"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1855e"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1855f"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18560"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18561"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18562"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18563"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.065Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18564"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.066Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.066Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18565"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.066Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.066Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18566"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.066Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.066Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18567"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.066Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.066Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18568"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.066Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.066Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18569"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.066Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.066Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.060Z"
+      },
+      "amount": 600,
+      "paymentMethod": "חשבון דעת יהודית",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1856a"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.066Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.066Z"
+      }
+    }
+  ],
+  "__v": 1,
+  "updatedAt": {
+    "$date": "2026-03-09T15:25:00.066Z"
+  },
+  "yahrzeitDate": []
+},
+{
+  "_id": {
+    "$oid": "69aec8b6fad5ee38bbafe418"
+  },
+  "name": "דוד מזרחי",
+  "donorId": "DR-1007",
+  "address": "רחוב מנחת יצחק 8, בית שמש",
+  "donations": [
+    {
+      "endDate": null,
+      "stoppedAt": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18504"
+      },
+      "date": {
+        "$date": "2024-03-01T10:00:00.000Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "monthly",
+      "startDate": {
+        "$date": "2024-03-01T00:00:00.000Z"
+      },
+      "isActive": true,
+      "nextDonationDate": {
+        "$date": "2026-04-01T00:00:00.000Z"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "startDate": null,
+      "endDate": null,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18505"
+      },
+      "date": {
+        "$date": "2024-01-15T08:30:00.000Z"
+      },
+      "amount": 1200,
+      "paymentMethod": "מזומן",
+      "frequency": "once",
+      "isActive": false,
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "startDate": null,
+      "endDate": null,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18506"
+      },
+      "date": {
+        "$date": "2023-09-20T15:00:00.000Z"
+      },
+      "amount": 3000,
+      "paymentMethod": "חשבון בנק הלאומי",
+      "frequency": "once",
+      "isActive": false,
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1856c"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1856d"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1856e"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1856f"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18570"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18571"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18572"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18573"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18574"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18575"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18576"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18577"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18578"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18579"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1857a"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1857b"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1857c"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1857d"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1857e"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b1857f"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18580"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18581"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18582"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    },
+    {
+      "date": {
+        "$date": "2026-03-09T15:25:00.069Z"
+      },
+      "amount": 250,
+      "paymentMethod": "Jgive",
+      "frequency": "once",
+      "startDate": null,
+      "endDate": null,
+      "isActive": false,
+      "stoppedAt": null,
+      "nextDonationDate": null,
+      "_id": {
+        "$oid": "69aee64c69793899c9b18583"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T15:25:00.075Z"
+      }
+    }
+  ],
+  "__v": 1,
+  "updatedAt": {
+    "$date": "2026-03-09T15:25:00.075Z"
+  },
+  "yahrzeitDate": []
+},
+{
+  "_id": {
+    "$oid": "69aed29b69793899c9b18387"
+  },
+  "name": "יאיר לביא",
+  "donorId": "216224360",
+  "address": "מורד הגיא 5 כרמיאל",
+  "phoneNumber": "0527641547",
+  "emailAddress": "yaeir@gmail.com",
+  "whatsappNumber": "0527641547",
+  "birthDate": {
+    "$date": {
+      "$numberLong": "-66182400000"
+    }
+  },
+  "yahrzeitDate": [
+    {
+      "date": {
+        "$date": "1995-05-07T21:00:00.000Z"
+      },
+      "name": "משה בן דוד",
+      "_id": {
+        "$oid": "69aed29b69793899c9b18388"
+      }
+    }
+  ],
+  "donations": [
+    {
+      "date": {
+        "$date": "2026-03-09T00:00:00.000Z"
+      },
+      "amount": 200,
+      "paymentMethod": "Jgive",
+      "frequency": "monthly",
+      "startDate": null,
+      "endDate": {
+        "$date": "2027-03-09T00:00:00.000Z"
+      },
+      "isActive": true,
+      "stoppedAt": null,
+      "nextDonationDate": {
+        "$date": "2026-04-08T23:00:00.000Z"
+      },
+      "_id": {
+        "$oid": "69aed29b69793899c9b1838c"
+      },
+      "createdAt": {
+        "$date": "2026-03-09T14:00:59.564Z"
+      },
+      "updatedAt": {
+        "$date": "2026-03-09T14:00:59.564Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-03-09T14:00:59.525Z"
+  },
+  "updatedAt": {
+    "$date": "2026-03-09T14:00:59.565Z"
+  },
+  "__v": 1
+}]

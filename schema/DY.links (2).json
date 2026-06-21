@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "690d1f2d6bfce179ab6dde72"
+  },
+  "websiteName": "בנק לאומי",
+  "websitelink": "https://www.leumi.co.il/he#home",
+  "description": "1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690d1f3e6bfce179ab6dde75"
+  },
+  "websiteName": "בנק הפועלים",
+  "websitelink": "https://www.bankhapoalim.co.il/",
+  "description": "1",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6927477ebb0182457b09d4e6"
+  },
+  "websiteName": "נדרים פלוס",
+  "websitelink": "https://www.matara.pro/nedarimplus/",
+  "description": "אתר תחזוק תורמים",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69aeb062d4aac22b088c2ad2"
+  },
+  "websiteName": "איזי כאונט",
+  "websitelink": "https://hyp.co.il/",
+  "description": "",
+  "__v": 0
+}]

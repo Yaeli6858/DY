@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "69aec3bbfad5ee38bbafe3e9"
+  },
+  "borrower": "הכולל",
+  "lender": "גמ\"ח המרכזי",
+  "amount": 10000,
+  "dateBorrowed": {
+    "$date": "2024-01-01T00:00:00.000Z"
+  },
+  "dueDate": {
+    "$date": "2024-06-01T00:00:00.000Z"
+  },
+  "description": "הלוואה שנלקחה עבור תשלום מלגות",
+  "paid": false,
+  "type": "taken",
+  "createdAt": {
+    "$date": "2024-01-01T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69aec3bbfad5ee38bbafe3ea"
+  },
+  "borrower": "הכולל",
+  "lender": "בנק הפועלים",
+  "amount": 25000,
+  "dateBorrowed": {
+    "$date": "2023-11-15T00:00:00.000Z"
+  },
+  "dueDate": {
+    "$date": "2024-11-15T00:00:00.000Z"
+  },
+  "description": "הלוואת גישור לשיפוץ",
+  "paid": false,
+  "type": "taken",
+  "createdAt": {
+    "$date": "2023-11-15T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-15T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69aec3bbfad5ee38bbafe3eb"
+  },
+  "borrower": "ישראל ישראלי",
+  "lender": "הכולל",
+  "amount": 2000,
+  "dateBorrowed": {
+    "$date": "2024-02-10T00:00:00.000Z"
+  },
+  "dueDate": {
+    "$date": "2024-03-10T00:00:00.000Z"
+  },
+  "description": "הלוואה שניתנה לאברך לסיוע בחתונה",
+  "paid": false,
+  "type": "given",
+  "createdAt": {
+    "$date": "2024-02-10T08:30:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T08:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69aec3bbfad5ee38bbafe3ec"
+  },
+  "borrower": "משה לוי",
+  "lender": "הכולל",
+  "amount": 500,
+  "dateBorrowed": {
+    "$date": "2023-12-01T00:00:00.000Z"
+  },
+  "dueDate": {
+    "$date": "2023-12-15T00:00:00.000Z"
+  },
+  "description": "הלוואה קטנה שניתנה וכבר שולמה",
+  "paid": true,
+  "type": "given",
+  "createdAt": {
+    "$date": "2023-12-01T09:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-15T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69aec3bbfad5ee38bbafe3ed"
+  },
+  "borrower": "הכולל",
+  "lender": "נדיב פלוני",
+  "amount": 5000,
+  "dateBorrowed": {
+    "$date": "2024-02-01T00:00:00.000Z"
+  },
+  "dueDate": {
+    "$date": "2024-08-01T00:00:00.000Z"
+  },
+  "description": "חוב שנלקח מפרטי לצורך תזרים",
+  "paid": false,
+  "type": "taken",
+  "createdAt": {
+    "$date": "2024-02-01T14:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T14:00:00.000Z"
+  }
+}]

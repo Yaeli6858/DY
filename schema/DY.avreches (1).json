@@ -1,0 +1,125 @@
+[{
+  "_id": {
+    "$oid": "69aec696fad5ee38bbafe40c"
+  },
+  "id": "222333444",
+  "name": "אברהם קוק",
+  "phoneNumber": "052-7654321",
+  "address": "רחוב חזון איש 40, בני ברק",
+  "emailAddress": "ayk@example.com",
+  "bankName": "מרכנתיל",
+  "branchNumber": "742",
+  "accountNumber": "556677",
+  "womenName": "לאה",
+  "active": true,
+  "recentMilgot": [
+    {
+      "milgaAmount": 2000,
+      "date": {
+        "$date": "2024-02-01T00:00:00.000Z"
+      },
+      "status": "paid",
+      "details": "מלגת חודש פברואר 2024"
+    },
+    {
+      "milgaAmount": 2000,
+      "date": {
+        "$date": "2024-01-01T00:00:00.000Z"
+      },
+      "status": "paid",
+      "details": "מלגת חודש ינואר 2024"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aec696fad5ee38bbafe40d"
+  },
+  "id": "333444555",
+  "name": "דוד כהן",
+  "phoneNumber": "054-8887766",
+  "address": "רחוב רבי עקיבא 12, אלעד",
+  "emailAddress": "motty@example.com",
+  "bankName": "לאומי",
+  "branchNumber": "612",
+  "accountNumber": "998877",
+  "womenName": "חנה",
+  "womenPhoneNumber": "054-1112233",
+  "active": true,
+  "recentMilgot": [
+    {
+      "milgaAmount": 2000,
+      "date": {
+        "$date": "2024-02-01T00:00:00.000Z"
+      },
+      "status": "pending",
+      "details": "מלגת חודש פברואר 2024"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aec696fad5ee38bbafe40e"
+  },
+  "id": "444555666",
+  "name": "זאב פרידמן",
+  "phoneNumber": "053-3334455",
+  "address": "רחוב הפסגה 8, ירושלים",
+  "emailAddress": "nachum@example.com",
+  "bankName": "דיסקונט",
+  "branchNumber": "067",
+  "accountNumber": "445566",
+  "womenName": "אביגיל",
+  "active": false,
+  "recentMilgot": [
+    {
+      "milgaAmount": 1500,
+      "date": {
+        "$date": "2023-11-01T00:00:00.000Z"
+      },
+      "status": "paid",
+      "details": "מלגת חודש נובמבר 2023"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aec696fad5ee38bbafe40f"
+  },
+  "id": "555666777",
+  "name": "שלמה מילר",
+  "phoneNumber": "058-9990011",
+  "address": "רחוב מנחת יצחק 3, בית שמש",
+  "emailAddress": "miller@example.com",
+  "bankName": "הפועלים",
+  "branchNumber": "532",
+  "accountNumber": "123456",
+  "womenName": "מנוחה",
+  "active": true,
+  "recentMilgot": []
+},
+{
+  "_id": {
+    "$oid": "69aec696fad5ee38bbafe410"
+  },
+  "id": "111222333",
+  "name": "יוסף לוי",
+  "phoneNumber": "050-4123456",
+  "address": "רחוב שמואל הנביא 25, ירושלים",
+  "emailAddress": "yosef@example.com",
+  "bankName": "פאג\"י",
+  "branchNumber": "174",
+  "accountNumber": "102030",
+  "womenName": "רחל",
+  "active": true,
+  "recentMilgot": [
+    {
+      "milgaAmount": 2200,
+      "date": {
+        "$date": "2024-02-01T00:00:00.000Z"
+      },
+      "status": "paid",
+      "details": "מלגת חודש פברואר 2024"
+    }
+  ]
+}]
