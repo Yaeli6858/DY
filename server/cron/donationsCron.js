@@ -1,7 +1,7 @@
 const cron = require("node-cron");
 const Donor = require("../models/DonorModel");
 
-cron.schedule("25 17 * * *", async () => {
+cron.schedule("24 12 * * *", async () => {
   console.log("📅 בודק הוראות קבע...");
   try {
     const donors = await Donor.find({ "donations.isActive": true });
